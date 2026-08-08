@@ -1,0 +1,19 @@
+Phase: research
+Model: deepseek/deepseek-v4-flash-0731
+Exit code: 0
+
+[0m
+> research · deepseek/deepseek-v4-flash-0731
+[0m
+I'll start by reading the required files.
+[0m→ [0mRead raw.md
+[0m→ [0mRead public/images/manifest.json
+The files are large. Let me read the rest of both to capture all proof points.
+[0m→ [0mRead raw.md[90m [offset=1020][0m
+[0m→ [0mRead public/images/manifest.json[90m [offset=711][0m
+I have enough to compile all distinct proof. Writing `proof.md`.
+[0m
+[0m← [0mWrite proof.md
+Wrote file successfully.
+[0m
+Created `/vercel/sandbox/proof.md` with the `## Outreach` section (three customer-facing bullets) followed by a compact record of all distinct proof from `raw.md`: licenses, seven Tahoe Quarterly awards, 50+ homes since 1998, completed projects, testimonials, the Hyatt Regency commercial build, ironclad warranty, LEED accreditation, team credentials, and press/partnerships.
